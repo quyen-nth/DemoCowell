@@ -1,0 +1,7 @@
+PageUIs\ContactPageUI.class
+PageObjects\HomePageObject.class
+PageObjects\PageGeneratorManager.class
+Commons\AbstractPage.class
+PageObjects\ContactPageObject.class
+Commons\AbstractPage$1.class
+PageUIs\HomePageUI.class
